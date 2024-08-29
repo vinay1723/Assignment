@@ -1,5 +1,5 @@
 
- visit : - https://vinays-abstract.netlify.app/
+ visit : - https://vinays-abstract.netlify.app/ - wait for 5-6 seconds for loading of cards or just reload the page
 
 Step 1:Download the Assignment folder and open client ,server folders in different tabs in VS code editor.
 
