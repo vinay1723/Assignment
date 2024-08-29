@@ -1,7 +1,7 @@
 Step 1:Download the Assignment folder and open client ,server folders in different tabs in VS code editor.
 
 Step 2:- npm install
- run the above command in different tabs of vscode command shells this installs the node_modules folder for both the client and server folders in your local machine
+ run the above command in different tabs of vscode command shells this installs the node_modules folder for both the client and server folders in your local machine.
  step 3:- npm start
      run above command in server folder and client folder in VS code command shell this starts the both applications.(Note:-first start the server folder then client).
  Step 4 (optional):-
