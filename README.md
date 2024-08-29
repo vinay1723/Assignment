@@ -6,5 +6,5 @@ Step 2:
 Step 3:  run command (npm start) -> without parenthesis in server folder and client folder in VS code command shell this starts the both applications.(Note:-first start the server folder then client).
  
 Step 4 (optional):
-    if you want to test the http requests locally then after starting the local server folder,replace the https://helpcenter-55u7.onrender.com/api/v1/cards with http://127.0.0.1/api/v1/cards.
+    if you want to test the http requests locally then after starting the local server folder,replace the https://helpcenter-55u7.onrender.com with http://127.0.0.1.
     Replace host to 127.0.0.1 for local machines in client folder.
